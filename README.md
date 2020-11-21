@@ -1,0 +1,2 @@
+# COVID19-Data-Analysis
+The devastating epidemic of Severe Acute Respiratory Syndrome-Coronavirus (SARS-CoV-2) also known as COVID-19 has taken the worldwide hazard to the living society. this report utilizes Exploratory Data Analysis techniques and Linear Regression model to analyze the daily exponential behavior of the virus along with the prediction of future reachability of the COVID-19 across the nations by using the actual-time information from the Johns Hopkins University dashboard.
